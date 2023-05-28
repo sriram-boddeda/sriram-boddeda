@@ -22,8 +22,6 @@ My Code Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sriram-boddeda&count_private=true&theme=algolia&border_radius=20)
 
-![image](https://user-images.githubusercontent.com/20955511/183303701-34bf6b33-812d-4afd-9c1f-70b04b2e486a.png)
-  
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-boddeda&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
