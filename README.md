@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @sriram-boddeda
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning node.js
-- 🤝 I’m looking to collaborate on web based projects
+- 🤝 Looking to collaborate on web application projects
 - 📫 Reach me at sriram.b29@outlook.com
