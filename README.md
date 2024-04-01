@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sriram-boddeda
-- 🤝 Looking to collaborate on web application projects
+- 🤝 Looking to collaborate on web dev projects
 - 📫 Reach me at sriram.b29@outlook.com
 
 <!-- (View Counter)
