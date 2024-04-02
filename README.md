@@ -67,16 +67,13 @@ I'm a passionate developer with a keen interest in web development and data scie
 
 ## GitHub Stats
 <div style="display: flex; justify-content: space-around;">
-    <div style="flex: 50%; padding-right: 10px; height: 300px; width: 50%;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram-boddeda&show_icons=true&locale=en&layout=compact" alt="sriram-boddeda" />
+    <div style="text-align: center;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram-boddeda&show_icons=true&locale=en" alt="sriram-boddeda" />
     </div>
-    <div style="flex: 50%; height: 300px; width: 50%;">
+    <div style="flex: 50%; padding-right: 10px; height: 300px; width: 50%;">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram-boddeda&" alt="sriram-boddeda" />
     </div>
 </div>
-<div style="text-align: center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram-boddeda&show_icons=true&locale=en" alt="sriram-boddeda" />
+<div style="flex: 50%; height: 300px; width: 50%;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram-boddeda&show_icons=true&locale=en&layout=compact" alt="sriram-boddeda" />
 </div>
-
-
-
