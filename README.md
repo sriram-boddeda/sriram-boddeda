@@ -1,29 +1,31 @@
+#Top
+
 # Hi there! 👋 I'm Sriram Boddeda
 
-## About Me
+## About Me [↑](#Top)
 I'm a passionate developer with a keen interest in web development and data science. I enjoy working with various technologies and frameworks to build innovative solutions. Currently, I'm looking to collaborate on exciting web development projects.
 
-## Technologies I Work With
+## Technologies I Work With [↑](#Top)
 
-### Web Development
+### Web Development [↑](#Top)
 - Frontend: JavaScript, TypeScript, React.js, Next.js
 - UI Frameworks: Chakra UI, Shadcn
 - Backend: .NET (C#)
 
-### Data Science
+### Data Science [↑](#Top)
 - Languages: R, Python
 - Libraries: Pandas
 
-### Windows Desktop Application Development
+### Windows Desktop Application Development [↑](#Top)
 - .NET (C#)
 
-## Get in Touch
+## Get in Touch [↑](#Top)
 <a href="mailto:sriram.b29@outlook.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sriram-boddeda" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 
 
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sriram-boddeda&style=for-the-badge)](https://github.com/sriram-boddeda) ![GitHub followers](https://img.shields.io/github/followers/sriram-boddeda?style=for-the-badge)
+
 
 
 
@@ -77,3 +79,6 @@ I'm a passionate developer with a keen interest in web development and data scie
 <div style="flex: 50%; height: 300px; width: 50%;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram-boddeda&show_icons=true&locale=en&layout=compact" alt="sriram-boddeda" />
 </div>
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sriram-boddeda&style=for-the-badge)](https://github.com/sriram-boddeda) ![GitHub followers](https://img.shields.io/github/followers/sriram-boddeda?style=for-the-badge)
