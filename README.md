@@ -5,15 +5,15 @@
     <img src="https://komarev.com/ghpvc/?username=sriram-boddeda&style=flat-square" alt="profile views" />
   </a>
   <a href="https://github.com/sriram-boddeda?tab=followers">
-    <img src="https://img.shields.io/github/followers/sriram-boddeda?label=Followers&style=social" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/github/followers/sriram-boddeda?style=social" alt="GitHub Badge"/>
   </a>
 </p>
 
 ## About Me
 
-I'm a passionate developer specializing in **Web Development** and **Data Science**. With a strong foundation in both front-end and back-end technologies, I am committed to crafting compelling online experiences and data-driven applications. Currently, I'm actively seeking opportunities to collaborate on innovative web development projects.
-
-## Technologies I Work With
+<p align="center">
+I'm a passionate developer specializing in <strong>Web Development</strong> and <strong>Data Science</strong>. With a robust foundation in both front-end and back-end technologies, I am dedicated to crafting compelling online experiences and data-driven applications. Currently, I'm actively seeking opportunities to collaborate on innovative web development projects.
+</p>
 
 ## Technologies I Work With
 
@@ -27,7 +27,6 @@ I'm a passionate developer specializing in **Web Development** and **Data Scienc
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
 </p>
-
 
 ## Get in Touch
 
