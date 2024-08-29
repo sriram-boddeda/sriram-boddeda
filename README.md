@@ -4,8 +4,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriram-boddeda&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sriram-boddeda?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=sriram-boddeda&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sriram-boddeda?logo=github&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </div>
 
 <div align="center">
