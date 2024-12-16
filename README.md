@@ -9,15 +9,20 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Science+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Enthusiast;Always+Learning+New+Things;Open+to+Collaborations+%26+Opportunities" alt="Typing SVG" />
 </div>
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate developer specializing in **Web Development** and **Data Science**. With a robust foundation in both front-end and back-end technologies, I am dedicated to crafting compelling online experiences and data-driven applications. I'm actively seeking opportunities to collaborate on innovative web development projects.
+I'm a passionate developer specializing in **Web Development** and **Data Science**. I enjoy creating dynamic and efficient applications that provide value to users and organizations. Always eager to learn and grow, I strive to stay on the cutting edge of technology.
 
-<details>
-<summary>🛠️ Technologies & Tools</summary>
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
 
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -60,7 +65,9 @@ I'm a passionate developer specializing in **Web Development** and **Data Scienc
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-</details>
+</div>
+
+---
 
 ## 📫 Get in Touch
 
@@ -73,16 +80,17 @@ I'm a passionate developer specializing in **Web Development** and **Data Scienc
   </a>
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sriram-boddeda&show_icons=true&theme=radical" alt="Sriram's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriram-boddeda&theme=radical" alt="Sriram's GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-boddeda&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+---
 
 ## 💡 Recent Projects
 
@@ -91,9 +99,19 @@ I'm a passionate developer specializing in **Web Development** and **Data Scienc
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=decentralized-ethereum-marketplace&theme=radical" alt="Decentralized Ethereum Marketplace" />
   </a>
   <a href="https://github.com/sriram-boddeda/Facial-Expression-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=Facial-Expression-Recognition&theme=radical" alt="Facial-Expression-Recognition" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=Facial-Expression-Recognition&theme=radical" alt="Facial Expression Recognition" />
   </a>
 </div>
+
+---
+
+## 🌟 GitHub Contributions
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sriram-boddeda&theme=radical" alt="Contributions Graph" />
+</div>
+
+---
 
 ## ✨ Fun Fact
 
