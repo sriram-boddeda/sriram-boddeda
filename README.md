@@ -161,12 +161,18 @@ I'm a passionate developer specializing in **Web Development** and **Data Scienc
 
 ---
 
-## ✨ Fun Fact
+## 😂 Joke of the Day
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
-
-<div align="center">
-  🌟 I love exploring new technologies and continuously improving my skill set. Let's connect and build something amazing together!
+<div align="center" style="box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
+  <picture>
+    <source
+      srcset="https://readme-jokes.vercel.app/api/?theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://readme-jokes.vercel.app/api"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+  </picture>
 </div>
