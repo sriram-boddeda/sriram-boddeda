@@ -84,10 +84,47 @@ I'm a passionate developer specializing in **Web Development** and **Data Scienc
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriram-boddeda&show_icons=true&theme=radical" alt="Sriram's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriram-boddeda&theme=radical" alt="Sriram's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-boddeda&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px; background: linear-gradient(145deg, #1e1e1e, #282828); border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sriram-boddeda&show_icons=true&include_all_commits=true&rank_icon=github" alt="Sriram's GitHub Stats" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); max-width: 100%; height: auto;"/> -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=sriram-boddeda&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=sriram-boddeda&show_icons=true&include_all_commits=true&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
+  
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriram-boddeda&theme" alt="Sriram's GitHub Streak"/> -->
+
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=sriram-boddeda&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=sriram-boddeda&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sriram-boddeda&theme=github" alt="Contributions Chart"/>
+  </picture>
+  
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-boddeda&layout=pie" alt="Top Languages"/> -->
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-boddeda&layout=pie&langs_count=8&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-boddeda&langs_count=8&layout=pie"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-boddeda&langs_count=8&layout=pie" />
+  </picture>
 </div>
 
 ---
@@ -96,20 +133,34 @@ I'm a passionate developer specializing in **Web Development** and **Data Scienc
 
 <div align="center">
   <a href="https://github.com/sriram-boddeda/decentralized-ethereum-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=decentralized-ethereum-marketplace&theme=radical" alt="Decentralized Ethereum Marketplace" />
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=decentralized-ethereum-marketplace&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=decentralized-ethereum-marketplace&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=decentralized-ethereum-marketplace&theme=default" alt="Decentralized Ethereum Marketplace"/>
+    </picture>
   </a>
   <a href="https://github.com/sriram-boddeda/Facial-Expression-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=Facial-Expression-Recognition&theme=radical" alt="Facial Expression Recognition" />
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=Facial-Expression-Recognition&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=Facial-Expression-Recognition&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriram-boddeda&repo=Facial-Expression-Recognition&theme=default" alt="Facial Expression Recognition"/>
+    </picture>
   </a>
 </div>
 
----
 
-## 🌟 GitHub Contributions
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sriram-boddeda&theme=radical" alt="Contributions Graph" />
-</div>
 
 ---
 
