@@ -84,7 +84,7 @@ I'm a passionate developer specializing in **Web Development** and **Data Scienc
 ## 📊 GitHub Stats
 
 <div align="center" style="padding: 20px; background: linear-gradient(145deg, #1e1e1e, #282828); border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
-  <div style="display: flex; gap: 20px; justify-content: center;">
+<!--   <div style="display: flex; gap: 20px; justify-content: center;">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=sriram-boddeda&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark"
@@ -107,7 +107,7 @@ I'm a passionate developer specializing in **Web Development** and **Data Scienc
       />
       <img src="https://github-readme-streak-stats.herokuapp.com?user=sriram-boddeda&theme=default" alt="Sriram's GitHub Streak" style="border: 2px solid #28a745; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);"/>
     </picture>
-  </div>
+  </div> -->
 
   <div style="margin-top: 20px; display: flex; justify-content: center;">
     <picture>
