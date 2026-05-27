@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Enthusiast;Always+Learning+New+Things;Open+to+Collaborations+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Always+Learning+New+Things;Open+to+Collaborations+%26+Opportunities" alt="Typing SVG" />
 </div>
 
 ---
