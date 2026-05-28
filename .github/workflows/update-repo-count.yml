@@ -1,0 +1,50 @@
+name: Update Repo Count Badge
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-repo-count.yml'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get public repo count
+        id: repo-count
+        run: |
+          COUNT=$(gh api users/sriram-boddeda --jq '.public_repos')
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Validate count and update README badge
+        run: |
+          COUNT=${{ steps.repo-count.outputs.count }}
+          if ! [[ "$COUNT" =~ ^[0-9]+$ ]]; then
+            echo "Error: Invalid or empty repo count: '$COUNT'"
+            exit 1
+          fi
+          echo "Updating badge to: Repos-$COUNT"
+          sed -i "s|/badge/Repos-[0-9]*-58a6ff|/badge/Repos-${COUNT}-58a6ff|g" README.md
+
+      - name: Commit and push if changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update repo count badge to ${{ steps.repo-count.outputs.count }}"
+            git push
+          else
+            echo "No change in repo count — skipping commit."
+          fi
