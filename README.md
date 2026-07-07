@@ -143,7 +143,7 @@ const sriram: Developer = {
 ## 📊 Stats & Coding
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Repos-57-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Repos-58-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   <img src="https://img.shields.io/github/stars/sriram-boddeda?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=58a6ff" alt="Stars" />
   <img src="https://img.shields.io/github/followers/sriram-boddeda?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=58a6ff" alt="Followers" />
   <br /><br />
